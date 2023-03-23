@@ -1,11 +1,5 @@
-#ifndef main_h
-#define main_h
-
-/*
- * File: main.h
- *
- * Desc: header file
-**/
+#ifndef MAIN_H
+#define MAIN_H
 
 int _putchar(char c);
 int _isupper(int c);
